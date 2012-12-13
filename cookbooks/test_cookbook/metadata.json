@@ -1,0 +1,30 @@
+{
+  "groupings": {
+  },
+  "providing": {
+  },
+  "dependencies": {
+  },
+  "description": "Installs/Configures test_cookbook",
+  "license": "All rights reserved",
+  "name": "test_cookbook",
+  "recommendations": {
+  },
+  "maintainer_email": "jliang@commonsense.org",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "version": "0.0.1",
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "conflicting": {
+  },
+  "suggestions": {
+  },
+  "maintainer": "CommonSenseMedia",
+  "recipes": {
+    "test_cookbook::default": "Prints hello world output"
+  },
+  "platforms": {
+  }
+}
